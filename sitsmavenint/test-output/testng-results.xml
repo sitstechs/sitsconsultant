@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13401" started-at="2019-03-30T19:19:09Z" finished-at="2019-03-30T19:19:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13401" started-at="2019-03-30T19:19:09Z" finished-at="2019-03-30T19:19:23Z">
+      <class name="sitsmavenint.testcase2">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:sitsmavenint.testcase2@1b604f19]" name="tc2" duration-ms="6971" started-at="2019-03-30T19:19:09Z" finished-at="2019-03-30T19:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- sitsmavenint.testcase2 -->
+      <class name="sitsmavenint.testcase1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:sitsmavenint.testcase1@7823a2f9]" name="tc1" duration-ms="6368" started-at="2019-03-30T19:19:16Z" finished-at="2019-03-30T19:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- sitsmavenint.testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
